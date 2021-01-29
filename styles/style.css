@@ -1,0 +1,19 @@
+html{
+    font-family: "Roboto", sans-serif;
+}
+
+#mail:hover{
+    text-transform: capitalize;
+}
+
+li{
+    background-color: lightsteelblue;
+    width: 700px;
+    border: 1px solid red;
+
+}
+
+.sub-list > li{
+    background-color: yellow;
+    width: 600px;
+}
