@@ -1,19 +1,44 @@
 html{
     font-family: "Roboto", sans-serif;
 }
+body{
+    margin:auto;
+    width: 90%;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#info{
+    background-color: greenyellow;
+}
+#istr{
+    background-color: greenyellow;
+}
+
+#lav{
+    background-color: greenyellow;
+}
+
+#progr{
+    background-color: greenyellow;
+}
+
+#mail:link{
+    color: rgb(23, 23, 122);
+}
 
 #mail:hover{
-    text-transform: capitalize;
+    color: rgb(200, 23, 23);
 }
 
 li{
     background-color: lightsteelblue;
-    width: 700px;
+    width: 80%;
     border: 1px solid red;
 
 }
 
 .sub-list > li{
     background-color: yellow;
-    width: 600px;
+    width: 80%;
 }
