@@ -1,44 +1,45 @@
+/*
+PALETTE
+
+blue:#003049
+red:#D62828
+orange:#F77F00
+yellow:#FCBF49
+white:#EADEB7
+white2:#faebbb
+*/
+
+/*ANIMATIONS*/
+@keyframes fade-in{
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
 html{
-    font-family: "Roboto", sans-serif;
-}
-body{
-    margin:auto;
-    width: 90%;
-    border: 3px solid rgb(255, 255, 255);
-    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    background:#faebbb;
 }
 
-#info{
-    background-color: greenyellow;
-}
-#istr{
-    background-color: greenyellow;
+.title{
+    margin: 15px 15px;
 }
 
-#lav{
-    background-color: greenyellow;
+.block{
+    margin: 15px 25px;
+    width: auto;
+    background-color: #FCBF49;
 }
 
-#progr{
-    background-color: greenyellow;
-}
-
-#mail:link{
-    color: rgb(23, 23, 122);
-}
-
-#mail:hover{
-    color: rgb(200, 23, 23);
-}
-
-li{
-    background-color: lightsteelblue;
-    width: 80%;
-    border: 1px solid red;
-
-}
-
-.sub-list > li{
-    background-color: yellow;
-    width: 80%;
+ul{
+    border-left: 5px;
+    list-style:inside square;
 }

@@ -1,0 +1,28 @@
+Nautilus-Share-Message: 14:15:02.178: Called "net usershare info" but it failed: Failed to execute child process “net” (No such file or directory)
+gimp
+/snap/photogimp/141/usr/bin/gimp: Gimp-Widgets-WARNING: parse_iso_codes: error parsing '/build/photogimp/parts/gimp/install/usr/share/xml/iso-codes/iso_639.xml': No such file or directory
+
+gui_dbus_name_lost: the name "org.gimp.GIMP.UI" could not be acquired on the bus.
+gimp_device_info_set_device: trying to set GdkDevice 'Razer Razer Mamba Tournament Edition' on GimpDeviceInfo which already has a device
+/home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/wavelet-denoise: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.29' not found (required by /home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/wavelet-denoise)
+/snap/photogimp/141/usr/bin/gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): error
+/home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/resynthesizer: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.29' not found (required by /home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/resynthesizer)
+/snap/photogimp/141/usr/bin/gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): error
+/home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/gimp-lqr-plugin: error while loading shared libraries: liblqr-1.so.0: cannot open shared object file: No such file or directory
+/snap/photogimp/141/usr/bin/gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): error
+/home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/dbp: /lib/x86_64-linux-gnu/libm.so.6: version `GLIBC_2.29' not found (required by /home/andrea/snap/photogimp/141/.config/GIMP/2.10/plug-ins/dbp)
+/snap/photogimp/141/usr/bin/gimp: LibGimpBase-WARNING: gimp: gimp_wire_read(): error
+gimp_check_updates_callback: loading of https://gimp.org/gimp_versions.json failed: Operation not supported
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0038 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0040 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0047 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0075 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0065 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0066 seconds
+GeglBuffer* gimp_pickable_contiguous_region_by_seed(GimpPickable*, gboolean, gfloat, gboolean, GimpSelectCriterion, gboolean, gint, gint): foo took 0,0071 seconds
+
+(gimp:9282): GLib-GIO-WARNING **: 14:17:43.875: Error creating IO channel for /proc/self/mountinfo: Permission denied (g-file-error-quark, 2)
+
+(gimp:9282): GLib-GIO-WARNING **: 14:17:51.807: Error creating IO channel for /proc/self/mountinfo: Permission denied (g-file-error-quark, 2)
+Gdk-Message: 14:19:27.881: org.gnome.Nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+

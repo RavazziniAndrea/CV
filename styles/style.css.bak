@@ -1,0 +1,47 @@
+html{
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-image: url("/images/2.png");
+    background-color: #cccccc;
+    margin:auto;
+    width: 90%;
+    border: 3px;
+    padding: 10px;
+}
+
+#flag{
+}
+#btn{
+    width: 50px;
+    height: 25px;
+}
+
+#info{
+}
+#istr{
+}
+
+#lav{
+}
+
+#progr{
+}
+
+#mail:link{
+    color: rgb(23, 23, 122);
+}
+
+#mail:hover{
+    color: rgb(200, 23, 23);
+}
+
+li{
+    background-color: rgb(210, 224, 243);
+    width: 80%;
+    border: 1px
+
+}
+
+.sub-list > li{
+}
